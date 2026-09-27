@@ -1,0 +1,16 @@
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.next/
+dist/
+.DS_Store
+
+LAMDA/metadata.csv
+
+LAMDA/NPZ_Version/npz_var_thresh_0.01/vocabulary.txt
+
+LAMDA/NPZ_Version/npz_Baseline/vocabulary.txt
+
+LAMDA/NPZ_Version/npz_var_thresh_0.0001/vocabulary.txt

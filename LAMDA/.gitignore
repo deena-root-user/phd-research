@@ -1,0 +1,18 @@
+# Ignore all .log files recursively
+*.log
+
+# Or explicitly (both work the same in this case)
+**/*.log
+
+# Ignore all files and folders starting with 'ALL'
+ALL*
+
+# Ignore all .txt files
+#*.txt
+
+# Ignore all .joblib files
+*.joblib
+
+#iignore all .out files
+*.out
+
